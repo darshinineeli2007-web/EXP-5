@@ -33,9 +33,9 @@ PROCEDURE:
 OBSERVATIONS:
 <img width="566" height="780" alt="image" src="https://github.com/user-attachments/assets/ff001aa7-325e-4d49-8168-aea644db82f3" />
 <img width="559" height="775" alt="image" src="https://github.com/user-attachments/assets/459e0f50-f0c9-4859-a7d0-92f7f04212be" />
-<img width="574" height="772" alt="image" src="https://github.com/user-attachments/assets/b47f2438-5d4d-40c9-b6d3-459534728de2" />
-<img width="584" height="297" alt="image" src="https://github.com/user-attachments/assets/6c32c4d1-42f8-46ec-9a64-3ccdb4db43b2" />
-<img width="819" height="403" alt="image" src="https://github.com/user-attachments/assets/6ea185e3-c909-499c-9cd0-b51ed3bbae6d" />
+<img width="436" height="586" alt="image" src="https://github.com/user-attachments/assets/800dda80-56d7-44e1-95d2-b8f59df28a2c" />
+<img width="641" height="540" alt="image" src="https://github.com/user-attachments/assets/de0eb175-2c90-4603-83cc-5c2734a47c10" />
+
 
 REGULATION CHARACTERISTICS:
 
